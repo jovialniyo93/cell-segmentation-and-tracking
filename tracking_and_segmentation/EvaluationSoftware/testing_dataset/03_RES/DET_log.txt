@@ -1,0 +1,18 @@
+----------Splitting Operations (Penalty=5)----------
+T=0 Label=1
+T=2 Label=5
+T=4 Label=8
+T=4 Label=8
+T=5 Label=16
+----------False Negative Vertices (Penalty=10)----------
+T=2 GT_label=4
+T=3 GT_label=12
+T=5 GT_label=5
+T=5 GT_label=7
+T=6 GT_label=5
+----------False Positive Vertices (Penalty=1)----------
+T=0 Label=2
+T=2 Label=7
+T=3 Label=7
+========================================================
+DET measure: 0.688000

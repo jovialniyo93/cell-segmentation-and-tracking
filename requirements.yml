@@ -1,0 +1,37 @@
+name: cell_detection_and_tracking
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+dependencies:
+  - cudnn
+  - cudatoolkit=10.2
+  - cvxopt
+  - cython
+  - graphviz
+  - ipython
+  - mahotas
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - pydot
+  - pyqt
+  - pytest
+  - python=3.8
+  - python-graphviz
+  - pytorch=1.6
+  - scikit-image
+  - scipy
+  - tensorboardx
+  - imageio
+  - seaborn
+  - tifffile
+  - torchvision
+  - pip 
+  - imageio 
+  - scikit-learn
+ 
+
+ 
