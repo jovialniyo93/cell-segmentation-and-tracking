@@ -1,9 +1,9 @@
-![Python](https://img.shields.io/badge/python-v3.8-blue)
+![Python](https://img.shields.io/badge/Python-v3.8-blue)
 ![Pytorch](https://img.shields.io/badge/Pytorch-V1.6-orange)
 ![CV2](https://img.shields.io/badge/CV2-V4.8-brightgreen)
-![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
-![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-August2023-red)
+![Pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
+![Numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
+![Releasedate](https://img.shields.io/badge/Release%20date-August2023-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
