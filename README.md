@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-v3.8-blue)
+![Python](https://img.shields.io/badge/Python-V3.8-blue)
 ![Pytorch](https://img.shields.io/badge/Pytorch-V1.6-orange)
 ![CV2](https://img.shields.io/badge/CV2-V4.8-brightgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
