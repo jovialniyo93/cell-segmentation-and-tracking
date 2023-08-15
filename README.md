@@ -3,7 +3,7 @@
 ![CV2](https://img.shields.io/badge/CV2-V4.8-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
 ![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-August232023-red)
+![releasedate](https://img.shields.io/badge/release%20date-August2023-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
