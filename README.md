@@ -3,7 +3,7 @@
 ![CV2](https://img.shields.io/badge/CV2-V4.8-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
 ![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-August%232023-red)
+![releasedate](https://img.shields.io/badge/release%20date-August232023-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
@@ -51,7 +51,7 @@ conda activate cell_detection_and_tracking_ve
 
 ```PhC-C2DL-PSC``` folder can be replaced by any 2D data and use it as the independent dataset to test the model transferability.
 
-In this section, it is described how to reproduce the detection and tracking results on public dataset using our method. Download the Cell Tracking Challenge training data sets [Fluo-N2DH-GOWT1](http://data.celltrackingchallenge.net/training-datasets/Fluo-N2DH-GOWT1.zip), [Fluo-C2DL-MSC](http://data.celltrackingchallenge.net/training-datasets/Fluo-C2DL-MSC.zip), [PhC-C2DH-U373](http://data.celltrackingchallenge.net/training-datasets/PhC-C2DH-U373.zip) , [PhC-C2DL-PSC](http://data.celltrackingchallenge.net/training-datasets/PhC-C2DL-PSC.zip) Unzip the data sets into the respective folders. Download the [evaluation software](http://public.celltrackingchallenge.net/software/EvaluationSoftware.zip) from the Cell Tracking Challenge and unzip it in the repository. 
+In this section, it is described how to reproduce the detection and tracking results on public dataset using our method. Download the Cell Tracking Challenge training data sets [Fluo-N2DH-GOWT1](http://data.celltrackingchallenge.net/training-datasets/Fluo-N2DH-GOWT1.zip), [Fluo-C2DL-MSC](http://data.celltrackingchallenge.net/training-datasets/Fluo-C2DL-MSC.zip), [PhC-C2DH-U373](http://data.celltrackingchallenge.net/training-datasets/PhC-C2DH-U373.zip) , [PhC-C2DL-PSC](http://data.celltrackingchallenge.net/training-datasets/PhC-C2DL-PSC.zip) Unzip the data sets into the respective folders. Download the [Evaluation software](http://public.celltrackingchallenge.net/software/EvaluationSoftware.zip) from the Cell Tracking Challenge and unzip it in the repository. 
 
 
 # Project Collaborators and Contact
