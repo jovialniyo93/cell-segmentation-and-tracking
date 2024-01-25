@@ -7,7 +7,7 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# [A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking] (https://ieeexplore.ieee.org/document/10385935)
+# [A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking](https://ieeexplore.ieee.org/document/10385935)
 
 The code in this repository is supplementary to publication **A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking** 
 
