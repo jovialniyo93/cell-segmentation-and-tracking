@@ -7,9 +7,9 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking #
+# [A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking] (https://ieeexplore.ieee.org/document/10385935)
 
-The code in this repository is supplementary to our future publication "A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking" 
+The code in this repository is supplementary to publication **A Novel Deep Learning Approach Featuring Graph-Based Tracking for Simultaneous Cell Segmentation and Tracking** 
 
 ## Getting Started
 
@@ -76,6 +76,13 @@ Shenzhen Institute of Advanced Tech., CAS
 Address: 1068 Xueyuan Blvd., Shenzhen, Guangdong, China
 Postcode: 518055
 jovialniyo93@gmail.com
+
+If you find our work useful in your research, please consider citing:
+
+Zhao, K., Niyogisubizo, J., Xiao, L., Pan, Y., Wei, D., Rosiyadi, D. and Wei, Y., 2023. A Novel Deep Learning Approach Featuring Graph-Based Algorithm for Cell Segmentation and Tracking. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1752-1757). IEEE. https://doi.org/10.1109/BIBM58861.2023.10385935
+
+>[Online Published Paper](https://ieeexplore.ieee.org/document/10385935)
+
 
 ## License ##
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
